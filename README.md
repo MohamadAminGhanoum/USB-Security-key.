@@ -5,8 +5,13 @@ So i initially started with making this a usb-c security key, because i would be
 
 Therefore i came with the idea that i would like to use a high melting solder on the side with least components, and the other side, i want to use solder that will melt in the temperature of around 180 degrees.
 
+## Built version:
 
-##3d-model
+<img width="3456" height="4608" alt="IMG_20260613_212803" src="https://github.com/user-attachments/assets/f313a11a-293f-4c1e-96a7-8d9548a2f60b" />
+<img width="3456" height="4608" alt="IMG_20260613_212758" src="https://github.com/user-attachments/assets/33a15013-1fe5-4a63-bb03-2e56a15e2ec9" />
+
+
+## 3d-model
 
 <img width="490" height="563" alt="image" src="https://github.com/user-attachments/assets/e632da39-003f-4c08-9ec5-574fcfd441e4" />
 
