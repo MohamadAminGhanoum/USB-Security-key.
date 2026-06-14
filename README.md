@@ -7,8 +7,8 @@ Therefore i came with the idea that i would like to use a high melting solder on
 
 ## Built version:
 
-<img width="3456" height="4608" alt="IMG_20260613_212803" src="https://github.com/user-attachments/assets/f313a11a-293f-4c1e-96a7-8d9548a2f60b" />
 <img width="3456" height="4608" alt="IMG_20260613_212758" src="https://github.com/user-attachments/assets/33a15013-1fe5-4a63-bb03-2e56a15e2ec9" />
+<img width="3456" height="4608" alt="IMG_20260613_212803" src="https://github.com/user-attachments/assets/f313a11a-293f-4c1e-96a7-8d9548a2f60b" />
 
 
 ## 3d-model
